@@ -1,4 +1,4 @@
-displayPizza("../JSON/pizza-JSON.json");
+displayPizza("sofi222g.github.io/StarPizza-1/JSON/pizza-JSON.json");
 displayPasta("../JSON/pasta-JSON.json");
 displaySparkles("../JSON/sparkles.json");
 displaySoftDrinks("../JSON/softdrinks.json");
