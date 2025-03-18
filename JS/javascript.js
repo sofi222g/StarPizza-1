@@ -1,7 +1,7 @@
-displayPizza("sofi222g.github.io/StarPizza-1/JSON/pizza-JSON.json");
-displayPasta("sofi222g.github.io/StarPizza-1/JSON/pasta-JSON.json");
-displaySparkles("sofi222g.github.io/StarPizza-1/JSON/sparkles.json");
-displaySoftDrinks("sofi222g.github.io/StarPizza-1/JSON/softdrinks.json");
+displayPizza("JSON/pizza-JSON.json");
+displayPasta("JSON/pasta-JSON.json");
+displaySparkles("JSON/sparkles.json");
+displaySoftDrinks("JSON/softdrinks.json");
 
 async function displayPizza(file)
 {
